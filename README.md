@@ -1,10 +1,15 @@
 # Fictional-University
 This is from a course I am taking on Udemy called "Become a WordPress Developer: Unlocking Power With Code" by @LearnWebCode
 
-The udemy course is located at https://www.udemy.com/share/1000FwB0UbdFZXRHw=/
+The udemy course for Wordpress Development is located at https://www.udemy.com/share/1000FwB0UbdFZXRHw=/
 
 I am using git for this project, and I am using the book "Pro Git" as a reference. I found the book here https://git-scm.com/book/en/v2
 
 Working on merging - changing this to see on master. Deleting old project and starting over.
 
 Finished section 2 of the course on 8/22/2019
+
+Taking udemy courses to learn the GIT system that I can use for my Wordpress site.
+
+Git For Wordpress - https://www.udemy.com/share/102aduB0UbdFZXRHw=/
+Git Smart - https://www.udemy.com/share/101RaWB0UbdFZXRHw=/
