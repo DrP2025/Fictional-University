@@ -9,6 +9,8 @@ Working on merging - changing this to see on master. Deleting old project and st
 
 Finished section 2 of the course on 8/22/2019
 
+Setup SSH on 11/01/2019
+
 Taking udemy courses to learn the GIT system that I can use for my Wordpress site.
 
 Git For Wordpress - https://www.udemy.com/share/102aduB0UbdFZXRHw=/
