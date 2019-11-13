@@ -18,9 +18,9 @@ function get_public_plugins {
     sed "s/^/$public_plugins_url/" | \
     sed 's/\.latest//')
     do
+        echo "Downloading: " $i;
         curl -sS "$i" > file.zip && unzip file.zip;
         rm -rf file.zip;
-        echo "Downloading: " $i;
     done
 }
 
@@ -34,10 +34,10 @@ function get_premium_plugins {
     sed "s/^/$premium_plugins_url/" | \
     sed 's/\.latest//')
     do
+        echo "Downloading: " $i;
         curl -H 'Authorization: token {TOKEN}' -H 'Accept: application/vnd.github.v3.raw' -O -L "$i"
         unzip *.zip;
         rm -rf *.zip;
-        echo "Downloading: " $i;
     done
 }
 
