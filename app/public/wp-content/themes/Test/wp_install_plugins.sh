@@ -34,7 +34,7 @@ function get_premium_plugins {
     sed "s/^/$premium_plugins_url/" | \
     sed 's/\.latest//')
     do
-        curl -H 'Authorization: token 4de307897bc463ebe29d0f977f6a65043032317d' -H 'Accept: application/vnd.github.v3.raw' -O -L "$i"
+        curl -H 'Authorization: token {TOKEN}' -H 'Accept: application/vnd.github.v3.raw' -O -L "$i"
         unzip *.zip;
         rm -rf *.zip;
         echo "Downloading: " $i;
