@@ -1,9 +1,7 @@
 {
     "public": {
-        "regenerate-thumbnails": "latest",
-        "wp-pagenavi": "2.93.1"
+        "amazon-s3-and-cloudfront": "latest"
     },
     "premium": {
-        "hello-dolly-premium": "latest"
     }
 }
