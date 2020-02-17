@@ -17,4 +17,8 @@ Git For Wordpress - https://www.udemy.com/share/102aduB0UbdFZXRHw=/
 
 - [x] Finished Git for Wordpress course  02/12/2020
 
+- [x] Finished Git Smart Course 02/16/2020
+
 Git Smart - https://www.udemy.com/share/101RaWB0UbdFZXRHw=/
+
+Starting Become a wordpress developer course 02/16/2020
