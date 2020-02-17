@@ -21,4 +21,6 @@
 /app/public/wp-trackback.php
 /app/public/xmlrpc.php
 /app/sql
-/app/public/wp-content/plugins
+app/public/wp-content/upgrade
+app/public/wp-content/uploads
+app/public/wp-content/plugins
